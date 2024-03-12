@@ -4,7 +4,7 @@ Computer Specifications:
 
 | Hardware             | Spec                      |
 | -------------------- | ------------------------- |
-| **Opencore Version** | 0.9.8                     |
+| **Opencore Version** | 0.9.9                     |
 | **Ammount of RAM**   | 32GB                      |
 | **Graphics Card**    | RX 6650 XT                |
 | **Motherboard**      | Asrock B450m Steel Legend |
