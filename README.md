@@ -9,7 +9,7 @@ Computer Specifications:
 | **Graphics Card**    | RX 6650 XT                |
 | **Motherboard**      | Asrock B450m Steel Legend |
 | **Processor**        | AMD RYZEN 5 5600          |
-| **OS**               | MacOS Sonoma 14.4      |
+| **OS**               | MacOS Sonoma 14.4.1     |
 
 # Important
 
