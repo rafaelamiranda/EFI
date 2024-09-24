@@ -4,12 +4,12 @@ Computer Specifications:
 
 | Hardware             | Spec                      |
 | -------------------- | ------------------------- |
-| **Opencore Version** | 1.0.0                     |
+| **Opencore Version** | 1.0.1                     |
 | **Ammount of RAM**   | 32GB                      |
 | **Graphics Card**    | RX 6650 XT                |
 | **Motherboard**      | Asrock B450m Steel Legend |
 | **Processor**        | AMD RYZEN 5 5600          |
-| **OS**               | MacOS Sonoma 14.4.1     |
+| **OS**               | MacOS Sonoma 15.0         |
 
 # Important
 
